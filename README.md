@@ -1,1 +1,2 @@
-Django Practice Project
+#Django Practice Project
+Make polls app
